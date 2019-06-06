@@ -30,8 +30,6 @@ public class Cheque{
         this.dataPagamento = dataPagamento;
     }
 
-
-
     Scanner dado = new Scanner(System.in);
 
     public void preencherCheque(){

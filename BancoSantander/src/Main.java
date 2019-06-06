@@ -16,11 +16,10 @@ public class Main {
 //        contaP.recolherJuros();
 //        contaP.consultarSaldo();
 
-
-        contaC.depositoCheque(cheque);
         contaC.fazerDepositos();
         contaC.consultarSaldo();
-
+        contaC.sacarDinheiro();
+        contaC.consultarSaldo();
 
 
 
